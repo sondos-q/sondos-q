@@ -14,13 +14,6 @@
 - **Deployment & UI:** Gradio, Streamlit
 - **Tools:** Git, VS Code, Jupyter Notebooks
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=sondos-q&show_icons=true&theme=dark" alt="Sondos's GitHub stats" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=sondos-q&layout=compact&theme=dark" alt="Top Languages" height="160" />
-</p>
-  
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/sondos-jamal-30809924b/" target="_blank">
@@ -35,6 +28,5 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp;
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> &nbsp;
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
