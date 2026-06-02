@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sondos</h1>
-<h3 align="center">I am an AI and Data Science Intern at Estarta, deeply passionate about building intelligent systems and solving real-world problems using data. Currently, I am expanding my expertise in Machine Learning, Deep Learning, and Large Language Models (LLMs).</h3>
+<h3 align="center">I am an AI and Data Science Intern at Estarta, deeply passionate about transforming raw data into actionable insights and building intelligent systems that solve real-world problems. Currently, I am expanding my expertise in Machine Learning, Deep Learning, and Large Language Models (LLMs).</h3>
 
 ## 🚀 What I'm Up To
 - 🔭 **Current Internship:** Developing and optimizing AI solutions at Estarta.
-- 🧠 **Learning & Researching:** Advanced deep learning architectures, computer vision, and fine-tuning LLMs.
+- 🧠 **Learning & Researching:** Advanced deep learning architectures, and fine-tuning LLMs.
 - 🛠️ **Building:** End-to-end data pipelines, predictive models, and interactive AI web apps.
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** Python, SQL
 - **Data Science & ML:** Scikit-Learn, Pandas, NumPy
-- **Data Analysis:** Seaborn, Matpltlib, PowerBI 
+- **Data Analysis:** Seaborn, Matplotlib, PowerBI 
 - **Deep Learning:** TensorFlow
 - **Deployment & UI:** Gradio, Streamlit
 - **Tools:** Git, VS Code, Jupyter Notebooks
+
+![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondos-q&show_icons=true&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
