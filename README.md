@@ -6,6 +6,14 @@
 - 🧠 **Learning & Researching:** Advanced deep learning architectures, computer vision, and fine-tuning LLMs.
 - 🛠️ **Building:** End-to-end data pipelines, predictive models, and interactive AI web apps.
 
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python, SQL
+- **Data Science & ML:** Scikit-Learn, Pandas, NumPy
+- **Data Analysis:** Seaborn, Matpltlib, PowerBI 
+- **Deep Learning:** TensorFlow
+- **Deployment & UI:** Gradio, Streamlit
+- **Tools:** Git, VS Code, Jupyter Notebooks
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sondos-jamal-30809924b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sondos-jamal-30809924b/" height="30" width="40" /></a>
