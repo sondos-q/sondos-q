@@ -14,11 +14,16 @@
 - **Deployment & UI:** Gradio, Streamlit
 - **Tools:** Git, VS Code, Jupyter Notebooks
 
-![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondos-q&show_icons=true&theme=dark)
-
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sondos-q&show_icons=true&theme=dark" alt="Sondos's GitHub stats" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondos-q&layout=compact&theme=dark" alt="Top Languages" height="160" />
+</p>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sondos-jamal-30809924b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sondos-jamal-30809924b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sondos-jamal-30809924b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
