@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sondos</h1>
-<h3 align="center">I am an **AI and Data Science Intern at Estarta**, deeply passionate about building intelligent systems and solving real-world problems using data. Currently, I am expanding my expertise in Machine Learning, Deep Learning, and Large Language Models (LLMs).</h3>
+<h3 align="center">I am an AI and Data Science Intern at Estarta, deeply passionate about building intelligent systems and solving real-world problems using data. Currently, I am expanding my expertise in Machine Learning, Deep Learning, and Large Language Models (LLMs).</h3>
 
 ## 🚀 What I'm Up To
 - 🔭 **Current Internship:** Developing and optimizing AI solutions at Estarta.
